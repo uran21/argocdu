@@ -10,7 +10,7 @@ spec:
     name: in-cluster
     namespace: app3
   source:
-    path: "HelmCharts/MyChart3"
+    path: "HelmCharts/MyChart4"
     repoURL: "git@github.com:uran21/argocdu.git"
     targetRevision: HEAD
     helm:
