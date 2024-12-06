@@ -1,6 +1,6 @@
 # Dev Override Values for my Helm Chart
 
 container:
-  image: temson13/k8php
+  image: uran21/kbr
 
 replicaCount: 4
